@@ -1,0 +1,49 @@
+nume director: .
+identificatorul utilizatorului: 1000
+drepturi de acces user: RWX
+drepturi de acces grup: R--
+drepturi de acces altii: ---
+Nume fisier: ././imagine.bmp
+nume fisier: ././imagine.bmp
+inaltime: 1280
+lungime: 1920
+dimensiune: 7372938
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: 11.11.2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+Nume fisier: ././statistica.txt
+nume fisier: ././statistica.txt
+inaltime: -1
+lungime: -1
+dimensiune: 462
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: 12.11.2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+Nume fisier: ././p
+nume fisier: ././p
+inaltime: -1
+lungime: -1
+dimensiune: 17824
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: 12.11.2023
+contorul de legaturi: 1
+drepturi de acces user: RWX
+drepturi de acces grup: RWX
+drepturi de acces altii: R-X
+Nume fisier: ././test.c
+nume fisier: ././test.c
+inaltime: -1
+lungime: -1
+dimensiune: 6705
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: 12.11.2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
